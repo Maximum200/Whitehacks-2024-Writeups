@@ -25,4 +25,4 @@ Unfortunately, this time our searches weren't as useful. According to my teammat
 
 With a bit of guessing, we managed to find the flag.
 
-Flag: WH2024{PASIRRISDRIVE} (at least, I hope this is the right one? We couldn’t manage to verify it again)
+Flag: WH2024{TUAHROAD} (at least, I hope this is the right one? We couldn’t manage to verify it again)
