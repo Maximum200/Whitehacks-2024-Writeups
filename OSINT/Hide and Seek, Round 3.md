@@ -26,4 +26,4 @@ From our searches, we narrowed it down to either Pasir Ris Green or Pasir Ris Dr
 
 With a bit of guessing, we managed to find the flag.
 
-Flag: WH2024{PASIRRISGREEN} (at least, I hope this is the right one? We couldn’t manage to verify it again)
+Flag: WH2024{PASIRRISDRIVE} (at least, I hope this is the right one? We couldn’t manage to verify it again)
